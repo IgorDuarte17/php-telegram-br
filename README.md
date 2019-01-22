@@ -46,4 +46,5 @@
 [@elephpants](https://telegram.me/elephpants)  
 [@RumoaCertificacaoPHP](https://telegram.me/RumoaCertificacaoPHP)  
 [@PHPBrasil](https://telegram.me/PHPBrasil)  
+[@@phpbrasiloff](https://telegram.me/phpbrasiloff)  
 [@PHPTestFestBrasil](https://telegram.me/PHPTestFestBrasil)
